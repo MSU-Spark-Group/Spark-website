@@ -1,7 +1,7 @@
 ---
 title: Research
 nav:
-  order: 1
+  order: 1 # This page will appear in the 1st position of the nav menu
   tooltip: Published works
 ---
 

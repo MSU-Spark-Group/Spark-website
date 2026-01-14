@@ -1,7 +1,7 @@
 ---
 name: Matthew-Russell
 image: images/members/matthew-russell.png
-description: Lead Programmer
+description:
 role: grad
 links:
   email: sarah.johnson@gmail.com

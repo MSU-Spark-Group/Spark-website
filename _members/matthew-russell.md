@@ -1,8 +1,8 @@
 ---
-name: Sarah Johnson
-image: images/photo.jpg
+name: Matthew-Russell
+image: images/members/matthew-russell.png
 description: Lead Programmer
-role: programmer
+role: grad
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson

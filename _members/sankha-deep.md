@@ -1,7 +1,7 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
+name: Sankha-Deep
+image: images/sankha-deep.png
+role: postdoc
 group: alum
 links:
   github: john-doe

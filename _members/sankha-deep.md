@@ -1,8 +1,8 @@
 ---
 name: Sankha-Deep
-image: images/sankha-deep.png
+image: images/members/sankha-deep.png
 role: postdoc
-group: alum
+group: 
 links:
   github: john-doe
 ---

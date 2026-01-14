@@ -1,8 +1,8 @@
 ---
 name: Wencheng Lin
-image: images/wencheng-lin.jpg
+image: images/members/wencheng-lin.jpg
 role: phd
-affiliation: University of Colorado
+affiliation:
 aliases:
   - Zeke
 links:

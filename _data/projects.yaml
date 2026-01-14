@@ -8,16 +8,6 @@
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
 - title: Cool Tutorial
   subtitle: a subtitle
   image: images/photo.jpg
@@ -28,29 +18,12 @@
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
 - title: Zero-Dimensional Plasma–Catalysis Model for Surface Coverage of Nitrogen and Oxygen Atoms 
   subtitle: Wencheng Lin, Sankha Basu, Hongtao Zhong
+  group: featured
   image: images/Posters/M1.png
   link: https://github.com/Ezeki3lRchy/Catal.CFD
-  description: Develop an elementary surface-reaction model incorporating nitrogen and oxygen groundstateandelectronically excited states
+  description: Develop an elementary surface-reaction model incorporating nitrogen and oxygen ground state and electronically excited states
   repo: Ezeki3lRchy/Catal.CFD
   tags:
     - posters

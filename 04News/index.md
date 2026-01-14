@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-{% include section.html %}
-
 {% include tags.html tags="grants, meeting" %}
 
 {% include search-info.html %}

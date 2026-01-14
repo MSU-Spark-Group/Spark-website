@@ -33,8 +33,8 @@ We accept high school students into our lab who are part of one of the following
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="hongtaoz@msu.edu"
+  link="hongtaoz@msu.edu"
 %}
 {%
   include button.html

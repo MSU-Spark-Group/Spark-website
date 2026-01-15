@@ -1,5 +1,5 @@
 ---
-name: Matthew-Russell
+name: Matthew Russell
 image: images/members/matthew-russell.png
 description:
 role: grad

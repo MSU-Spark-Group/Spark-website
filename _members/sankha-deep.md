@@ -1,5 +1,5 @@
 ---
-name: Sankha-Deep
+name: Sankhadeep Basu
 image: images/members/sankha-deep.png
 role: postdoc
 group: 

@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: SPARK Group
+title: MSU SPARK Group
 subtitle: Where plasma spectroscopy meets reaction kinetics
 description: The Zhong Lab is a team of researchers at Michigan State University dedicated to exploring fundamental science and creating new possibilities for energy and chemical conversion. We bring together expertise in Spectroscopy, Plasmas, and Reaction Kinetics to spark new ideas, create new tools, and integrate these capabilities to tackle grand energy challenges and explore new frontiers.
 header: images/background.jpg
@@ -8,11 +8,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@MSU-Spark-Group.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: MSU-Spark-Group
-  twitter: MSU-Spark-Group
+  email: hongtaoz@msu.edu
+  orcid: 0000-0003-4064-6298
+  google-scholar: i6jJ7MIAAAAJ&hl
+  github: https://github.com/MSU-Spark-Group
   youtube: MSU-Spark-Group
 
 ### jekyll settings

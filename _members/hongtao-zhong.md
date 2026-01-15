@@ -10,7 +10,6 @@ links:
   orcid: 0000-0003-4064-6298
   google-scholar: i6jJ7MIAAAAJ&hl
   email: hongtaoz@msu.edu
-  github: https://github.com/hongtaozhong
 
 ---
 

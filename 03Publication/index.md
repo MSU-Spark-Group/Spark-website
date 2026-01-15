@@ -7,10 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Publication
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="journal, presentations, posters" %}
+{% include tags.html tags="journal papers, presentations, posters" %}
 
 {% include search-info.html %}
 

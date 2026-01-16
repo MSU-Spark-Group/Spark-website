@@ -26,18 +26,18 @@ nav:
 
 {% include figure.html 
    image="images/members/Artboard 1.png"
-   caption="Combustion and Low Carbon Energy Conversion"
+   caption="Combustion and Low Carbon Energy Conversion -Yiguang Ju"
    link="https://mae.princeton.edu/people/yiguang-ju" %}
 
 
 {% include figure.html
    image="images/members/P2.svg"
-   caption="Princeton Collaborative Low Temperature Plasma Research Facility"
+   caption="Princeton Collaborative Low Temperature Plasma Research Facility -Yevgeny"
    link="https://pcrf.princeton.edu/" %}
 
 {% include figure.html
    image="images/photo.jpg"
-   caption="Michigan State University Irrigation Lab"
+   caption="Michigan State University Irrigation Lab -Younsuk Dong"
    link="https://www.msuirrigationlab.com/home" %}
 
 {% endcapture %}

@@ -11,6 +11,10 @@ nav:
 
 {% include search-info.html %}
 
+{% include search-box.html %}
+
+{% include tags.html tags="journal papers, presentations, posters" %}
+
 {% include section.html %}
 
 ## Featured

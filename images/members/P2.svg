@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M50 10 L80 25 L80 55 L50 70 L20 55 L20 25 Z" fill="#E77D2C" />
+  <path d="M50 10 L80 25 L50 40 L20 25 Z" fill="#000000" />
+  <path d="M50 40 L80 25 L80 55 L50 70 Z" fill="#E77D2C" fill-opacity="0.8" />
+  
+  <text x="50" y="90" font-family="Arial, sans-serif" font-weight="bold" font-size="18" text-anchor="middle" fill="#231F20">PCRF</text>
+</svg>

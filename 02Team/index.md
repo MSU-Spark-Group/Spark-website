@@ -24,9 +24,21 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html 
+   image="images/members/Princeton_seal.svg"
+   caption="Combustion and Low Carbon Energy Conversion"
+   link="https://mae.princeton.edu/people/yiguang-ju" %}
+
+
+{% include figure.html
+   image="images/members/P2.svg"
+   caption="Princeton Collaborative Low Temperature Plasma Research Facility"
+   link="https://pcrf.princeton.edu/" %}
+
+{% include figure.html
+   image="images/photo.jpg"
+   caption="Michigan State University Irrigation Lab"
+   link="https://www.msuirrigationlab.com/home" %}
 
 {% endcapture %}
 

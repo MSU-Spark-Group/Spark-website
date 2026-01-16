@@ -1,6 +1,6 @@
 ---
 name: Matthew Russell
-image: images/members/matthew-russell.png
+image: images/members/matthew-russell.webp
 description:
 role: grad
 links:

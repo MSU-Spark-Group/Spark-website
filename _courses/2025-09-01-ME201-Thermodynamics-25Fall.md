@@ -1,6 +1,6 @@
 ---
 title: ME 201 Thermodynamics 2025 Fall
-image: images/photo.jpg
+image: 
 author: hongtao zhong
 tags: undegrad
 ---

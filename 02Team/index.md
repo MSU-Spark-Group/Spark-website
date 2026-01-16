@@ -25,7 +25,7 @@ nav:
 {% capture content %}
 
 {% include figure.html 
-   image="images/members/Princeton_seal.svg"
+   image="images/members/Princeton_seal_square.svg"
    caption="Combustion and Low Carbon Energy Conversion"
    link="https://mae.princeton.edu/people/yiguang-ju" %}
 

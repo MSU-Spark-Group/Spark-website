@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Publication
 
-{% include tags.html tags="journal papers, presentations, posters" %}
-
 {% include search-info.html %}
 
 {% include search-box.html %}

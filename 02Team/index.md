@@ -17,16 +17,27 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-
 # Collaborator
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html
+   image="images/members/Artboard 1.png"
+   caption="Combustion and Low Carbon Energy Conversion <br> Yiguang Ju"
+   link="https://mae.princeton.edu/people/yiguang-ju" %}
+
+
+{% include figure.html
+   image="images/members/P2.svg"
+   caption="Princeton Collaborative Low Temperature Plasma Research Facility <br> Yevgeny"
+   link="https://pcrf.princeton.edu/" %}
+
+{% include figure.html
+   image="images/photo.jpg"
+   caption="Michigan State University Irrigation Lab <br>Younsuk Dong"
+   link="https://www.msuirrigationlab.com/home" %}
 
 {% endcapture %}
 

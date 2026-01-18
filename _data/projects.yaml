@@ -7,3 +7,13 @@
   repo: Ezeki3lRchy/Catal.CFD
   tags:
     - posters
+
+- title: TALIF measurement of atomic hydrogen density for biofuel hydrogenation.
+  subtitle: Sankhadeep Basu
+  group: featured
+  image: images/Posters/TALIF-1.png
+  link: 
+  description: Spatially and temporally resolved atomic hydrogen densities are quantified using two-photon absorption laser-induced fluorescence (TALIF) at the plasma–biofuel interface. The measurements provide absolute H-atom number densities and fluxes directly relevant to plasma-assisted biofuel hydrogenation kinetics.
+  repo: 
+  tags:
+    - posters

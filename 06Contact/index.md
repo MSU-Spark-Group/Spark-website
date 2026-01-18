@@ -51,7 +51,6 @@ We accept high school students into our lab who are part of one of the following
 
 {% include section.html %}
 
-
 {% include section.html dark=true %}
 
 {% capture col1 %}

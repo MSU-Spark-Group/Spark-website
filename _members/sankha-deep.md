@@ -4,7 +4,7 @@ image: images/members/sankha-deep.jpg
 role: postdoc
 group: 
 links:
-  github: john-doe
+  github: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Dr Basu specializes in plasma-assisted nanoparticle synthesis and plasma diagnostics, currently focusing on laser-induced processes and their applications.

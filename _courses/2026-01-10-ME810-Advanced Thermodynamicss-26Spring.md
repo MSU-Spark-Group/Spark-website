@@ -1,7 +1,7 @@
 ---
 title: ME 810 Advanced Thermodynamics 2026 Spring
 image: 
-author: hongtao zhong
+author: Hongtao
 tags: grad
 ---
 

@@ -5,4 +5,4 @@ author: hongtao zhong
 tags: undegrad
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The course will teach students to apply the First and Second Laws of thermodynamics to systems and introduce applications of thermodynamics in an engineering setting. 

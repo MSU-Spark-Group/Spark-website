@@ -5,4 +5,4 @@ author: hongtao zhong
 tags: grad
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This course focuses on theoretic topics including equilibrium statistical mechanics, kinetic theory, collisions and transport, chemical thermodynamics and kinetics, and laser spectroscopy.

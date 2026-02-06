@@ -1,5 +1,5 @@
 ---
-title: ME 201 Thermodynamics 2025 Fall
+title: ME 201 Thermodynamics (2025 Fall)
 image: 
 author: Hongtao
 tags: undergrad

@@ -14,4 +14,4 @@ links:
 
 ---
 
-Wencheng joined SPARK group as a Ph.D. student in September 2025. Prior to that, he earned his master’s degree from Xiamen University, China. His research focuses on chemical kinetic modeling and mechanism validation for low-temperature plasmas.
+Wencheng joined SPARK group as a Ph.D. student in September 2025. Prior to that, he earned his master degree from Xiamen University, China. His research focuses on chemical kinetic modeling and mechanism validation for low-temperature plasmas.

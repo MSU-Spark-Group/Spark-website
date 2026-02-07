@@ -20,7 +20,8 @@ In situ laser diagnostics in the mid-infrared region, which contains the fundame
 
 Supported by Michigan State University Shared Research Infrastructure Program (SRIP).
 
-
+![Target species](Picture1.png)
+*Research question: how to track complex and transient chemical reactions with in situ laser diagnostics?*
 
 
 {% include section.html %}

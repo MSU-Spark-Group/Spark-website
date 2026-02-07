@@ -25,7 +25,7 @@ nav:
 
 {% include figure.html
    image="images/members/Artboard 1.png"
-   caption="Combustion and Low Carbon Energy Conversion Lab"
+   caption="Princeton University Combustion and Low Carbon Energy Conversion Lab"
    link="https://mae.princeton.edu/people/yiguang-ju" %}
 
 
@@ -35,7 +35,7 @@ nav:
    link="https://pcrf.princeton.edu/" %}
 
 {% include figure.html
-   image="images/MSUlogo.png"
+   image="images/members/MSUlogo.png"
    caption="Michigan State University Irrigation Lab "
    link="https://www.msuirrigationlab.com/home" %}
 

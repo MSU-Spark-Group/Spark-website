@@ -7,4 +7,4 @@ links:
   github: 
 ---
 
-Dr Basu specializes in plasma-assisted nanoparticle synthesis and plasma diagnostics, currently focusing on laser-induced processes and their applications.
+Dr. Basu earned his Ph.D. from Michigan State University with a dissertation titled “Non-thermal Plasma Synthesis of Carbon Nanoparticles.” His current research focuses on advanced laser diagnostics for non-equilibrium plasmas.

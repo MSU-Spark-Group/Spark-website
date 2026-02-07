@@ -14,4 +14,4 @@ links:
 
 ---
 
-Wencheng Lin joined MSU as an PhD student in September 2025. Before that he was a graduate student at Xiamen University. Wencheng's research focuses on understanding, modeling for low temperature plasma.
+Wencheng joined SPARK group as a Ph.D. student in September 2025. Prior to that, he earned his master’s degree from Xiamen University, China. His research focuses on chemical kinetic modeling and mechanism validation for low-temperature plasmas.

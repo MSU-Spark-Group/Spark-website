@@ -4,8 +4,8 @@ image: images/members/matthew-russell.webp
 description:
 role: grad
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: 
+  twitter: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Matthew graduated from Michigan State University with a B.S. in Mechanical Engineering. He previously worked as an IT technician at the MSU Surplus Store. His current research focuses on plasma-assisted methane pyrolysis.

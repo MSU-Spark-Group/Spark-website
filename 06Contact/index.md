@@ -40,14 +40,14 @@ We welcome high school students in our lab. Please reach out!
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(517) 353 5738"
+  link="+1-5173535738"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/XToQTPCf1FuaMrV76"
 %}
 
 {% include section.html %}

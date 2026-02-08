@@ -1,6 +1,6 @@
 ---
 name: Wencheng Lin
-image: images/members/wencheng-lin.jpg
+image: images/members/wencheng-lin1.jpg
 role: phd
 affiliation:
 aliases:

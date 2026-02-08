@@ -1,6 +1,6 @@
 ---
 name: Sankhadeep Basu
-image: images/members/sankha-deep.jpg
+image: images/members/sankha-deep1.jpg
 role: postdoc
 group: 
 links:

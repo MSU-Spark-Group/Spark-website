@@ -15,7 +15,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 {% include list.html data="members" component="portrait" filter="role == 'grad'" %}
 
-{% include section.html background="images/background2.jpg" dark=true %}
+{% include section.html background="images/DSC_0314.jpg" dark=true %}
 
 # Collaborator
 

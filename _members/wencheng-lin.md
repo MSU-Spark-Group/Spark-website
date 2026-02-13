@@ -7,7 +7,7 @@ aliases:
   - Zeke
 links:
   home-page: https://github.com/Ezeki3lRchy
-  orcid: 0000-0001-8713-9213
+  orcid: 0009-0001-8735-8923
   google-scholar: XpwK__UAAAAJ
   email: linwenc1@msu.edu
   github: https://github.com/Ezeki3lRchy

@@ -5,5 +5,5 @@
 
   # MSU-Spark-Group's Website
 
-  Visit **[msu-spark-group.github.io/Spark-website](https://msu-spark-group.github.io/Spark-website)** 🚀
+  Visit **[www.spark.egr.msu.edu](http://www.spark.egr.msu.edu)** 🚀
 

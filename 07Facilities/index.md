@@ -2,39 +2,21 @@
 title: Facilities
 nav:
   order: 7
-  tooltip: Email, address, and location
+  tooltip: Lab equipment and capabilities
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-solid fa-wrench" %}Facilities
 
-Template.
-
-{% include section.html %}
+### Plasma sources
 
 
-### Template
-Template.
+### Reactors
 
 
-{%
-  include button.html
-  type="email"
-  text="hongtaoz@msu.edu"
-  link="hongtaoz@msu.edu"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(517) 353 5738"
-  link="+1-5173535738"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://maps.app.goo.gl/XToQTPCf1FuaMrV76"
-%}
+### Lasers
+
+
+### Manufacturing capabilities
+
 
 {% include section.html %}
-
-{% include section.html dark=true %}

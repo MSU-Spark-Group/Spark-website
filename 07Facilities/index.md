@@ -7,28 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We seek to build a multidisciplinary and diverse team of scientists and engineers.
+Template.
 
 {% include section.html %}
 
 
-### Postdoctoral scholars
-Funding for postdoctoral opportunities is available on a rolling basis.
-
-### Doctoral students
-We welcome prospective students to visit our labs and figure out what we are working on!
-
-We accept graduate students who have been admitted to Michigan State University!
-
-
-
-### Undergraduate students
-
-
-If you are an undergraduate student interested in a fellowship or summer internship, please talk to us!
-
-### High school students
-We welcome high school students in our lab. Please reach out!
+### Template
+Template.
 
 
 {%

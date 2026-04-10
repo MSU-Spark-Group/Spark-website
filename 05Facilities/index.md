@@ -1,7 +1,7 @@
 ---
 title: Facilities
 nav:
-  order: 7
+  order: 5
   tooltip: Lab equipment and capabilities
 ---
 

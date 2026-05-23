@@ -11,6 +11,6 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="grants, meeting" %}
+{% include tags.html tags="grant, meeting, paper, award" %}
 
 {% include list.html data="posts" component="post-excerpt" %}

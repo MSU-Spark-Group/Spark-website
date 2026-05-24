@@ -33,6 +33,7 @@
 
 .collaborator-row .figure {
   width: 175px;
+  min-width: 0;
   margin: 0;
 }
 
@@ -41,6 +42,10 @@
   height: 175px;
   object-fit: contain;
   background: var(--background);
+}
+
+.collaborator-row .figure-caption {
+  width: 175px;
 }
 
 /*# sourceMappingURL=figure.css.map */

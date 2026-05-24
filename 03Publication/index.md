@@ -2,7 +2,7 @@
 title: Publication
 nav:
   order: 3
-  tooltip: Software, datasets, and more
+  tooltip: Journal papers, presentations, posters
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Publication

@@ -22,24 +22,24 @@ nav:
 
 {% include section.html %}
 
-{% capture content %}
+<div class="collaborator-row">
 
 {% include figure.html
    image="images/members/Artboard 1.png"
    caption="Princeton University Combustion and Low Carbon Energy Conversion Lab"
-   link="https://mae.princeton.edu/people/yiguang-ju" %}
-
+   link="https://mae.princeton.edu/people/yiguang-ju"
+   width="175px" %}
 
 {% include figure.html
    image="images/members/P2.svg"
    caption="Princeton Collaborative Low Temperature Plasma Research Facility"
-   link="https://pcrf.princeton.edu/" %}
+   link="https://pcrf.princeton.edu/"
+   width="175px" %}
 
 {% include figure.html
    image="images/members/MSUlogo.png"
    caption="Michigan State University Irrigation Lab "
-   link="https://www.msuirrigationlab.com/home" %}
+   link="https://www.msuirrigationlab.com/home"
+   width="175px" %}
 
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+</div>

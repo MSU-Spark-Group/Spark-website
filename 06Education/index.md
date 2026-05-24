@@ -1,11 +1,11 @@
 ---
-title: Course
+title: Education
 nav:
   order: 6
   tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-hands-helping" %}Course
+# {% include icon.html icon="fa-solid fa-hands-helping" %}Education
 
 {% include search-info.html %}
 

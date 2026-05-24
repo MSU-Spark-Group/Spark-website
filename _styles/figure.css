@@ -22,4 +22,25 @@
   text-align: center;
 }
 
+.collaborator-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+  margin: 40px 0;
+}
+
+.collaborator-row .figure {
+  width: 175px;
+  margin: 0;
+}
+
+.collaborator-row .figure-image img {
+  width: 175px;
+  height: 175px;
+  object-fit: contain;
+  background: var(--background);
+}
+
 /*# sourceMappingURL=figure.css.map */

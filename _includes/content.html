@@ -22,12 +22,19 @@
     | regex_scan: "<size>(.*?)</size>"
     | default: "page"
   %}
+  {% assign blur = section
+    | regex_scan: "<blur>(.*?)</blur>"
+    | default: ""
+  %}
 
   <section
     class="background"
     data-size="{{ size }}"
     {% if dark == "true" or dark == "false" %}
       data-dark="{{ dark }}"
+    {% endif %}
+    {% if blur == "true" %}
+      data-blur="true"
     {% endif %}
     {% if image %}
       style="--image: url('{{ image | relative_url | uri_escape }}')"

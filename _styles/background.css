@@ -17,4 +17,29 @@
   z-index: -1;
 }
 
+/*
+  Blurred header background (scoped to post detail header via data-blur).
+  Heavy blur masks the low resolution of small logos used as icons, so a
+  crisp listing icon can double as an abstract, legible page-header backdrop.
+  Only sections that opt in with data-blur="true" are affected; the shared
+  site header banner, footer, and content-section backgrounds are untouched.
+*/
+.background[data-blur=true] {
+  overflow: hidden;
+}
+
+.background[data-blur=true]:before {
+  inset: -40px;
+  filter: blur(30px);
+  opacity: 0.55;
+}
+
+.background[data-blur=true]:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5));
+  z-index: -1;
+}
+
 /*# sourceMappingURL=background.css.map */

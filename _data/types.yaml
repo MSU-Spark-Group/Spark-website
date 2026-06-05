@@ -163,6 +163,11 @@ paper:
   text: Paper
   tooltip: Paper
 
+pdf:
+  icon: fa-solid fa-file-pdf
+  text: PDF
+  tooltip: Full paper PDF
+
 book:
   icon: fa-solid fa-book
   text: Book

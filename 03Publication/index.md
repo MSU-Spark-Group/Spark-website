@@ -11,10 +11,8 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="journal papers" %}
+{% include tags.html tags="plasma diagnostics, plasma catalysis" %}
 
 {% include section.html %}
-
-## Publications
 
 {% include list.html component="citation" data="projects" style="rich" %}

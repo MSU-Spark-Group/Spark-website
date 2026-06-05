@@ -11,6 +11,35 @@
   publisher: "Journal of Physics D: Applied Physics"
   date: 2026-06-03
   link: https://doi.org/10.1088/1361-6463/ae71e3
-  image: images/Publications/biodiesel-fs-talif.jpg
+  image: images/Publications/biodiesel-fs-talif-plasma.jpg
+  description: >
+    In this work, spatially and temporally resolved atomic hydrogen profiles
+    were quantified using femtosecond two-photon absorption laser-induced
+    fluorescence at the plasma-biodiesel interface, at low pressure and room
+    temperature. A pronounced near-surface hydrogen depletion was observed,
+    corresponding to an incident H-atom flux of 1.9 × 10¹⁸ cm⁻² s⁻¹,
+    approximately four orders of magnitude higher than molecular hydrogen
+    fluxes typical of thermal catalytic hydrogenation. Within 2 h of plasma
+    processing, the H-atom density gradually recovered to the no-fuel baseline,
+    indicating progressive elimination of the surface C=C bonds. With Ni
+    catalyst addition, near-surface H density was further decreased by 50% and
+    remained depleted throughout the plasma processing. From GC–MS measurements,
+    it is evident that plasma processing shifted the biodiesel from an
+    unsaturated profile to a predominantly saturated one. C18:1 fell from 37.8%
+    in the untreated sample to trace levels in the no-catalyst case, while C18:0
+    rose from 38.9% to 85.5%. In the presence of Ni, unsaturated components such
+    as C18:1, C18:2 and C20:1 were not detected and C18:0 increased slightly
+    further to 86.6%. Kinetic modeling reveals that non-equilibrium
+    hydrogenation proceeds via two distinct regimes: a surface-limited,
+    self-terminating process in the plasma-only case, and a persistent
+    first-order, H-flux-controlled process in the plasma-catalysis case. These
+    findings establish a quantitative mechanistic link between plasma-generated
+    H flux and hydrogenation kinetics, offering fundamental understanding of
+    upgrading biofuels with renewable electricity and electricity-derived
+    hydrogen.
+  buttons:
+    - type: pdf
+      link: https://iopscience.iop.org/article/10.1088/1361-6463/ae71e3/pdf
   tags:
-    - journal papers
+    - plasma diagnostics
+    - plasma catalysis

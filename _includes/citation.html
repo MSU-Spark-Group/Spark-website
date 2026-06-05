@@ -74,6 +74,35 @@
       </div>
 
       {% if include.style == "rich" %}
+        {% if citation.buttons.size > 0 or citation.description or citation.tags.size > 0 or citation.repo %}
+          <div class="citation-meta">
+            {% if citation.buttons.size > 0 or citation.description %}
+              <div class="citation-buttons">
+                {% for button in citation.buttons %}
+                  {%
+                    include button.html
+                    type=button.type
+                    icon=button.icon
+                    text=button.text
+                    link=button.link
+                    style="bare"
+                  %}
+                {% endfor %}
+
+                {% if citation.description %}
+                  <details class="citation-abstract-toggle">
+                    <summary>Abstract</summary>
+                  </details>
+                {% endif %}
+              </div>
+            {% endif %}
+
+            {% if citation.tags.size > 0 or citation.repo %}
+              {% include tags.html tags=citation.tags repo=citation.repo %}
+            {% endif %}
+          </div>
+        {% endif %}
+
         {% if citation.description %}
           <div class="citation-description">
             {{
@@ -83,25 +112,6 @@
               | remove: "</p>"
             }}
           </div>
-        {% endif %}
-
-        {% if citation.buttons.size > 0 %}
-          <div class="citation-buttons">
-            {% for button in citation.buttons %}
-              {%
-                include button.html
-                type=button.type
-                icon=button.icon
-                text=button.text
-                link=button.link
-                style="bare"
-              %}
-            {% endfor %}
-          </div>
-        {% endif %}
-
-        {% if citation.tags.size > 0 or citation.repo %}
-          {% include tags.html tags=citation.tags repo=citation.repo %}
         {% endif %}
       {% endif %}
     </div>

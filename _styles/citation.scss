@@ -20,7 +20,9 @@ $wrap: 800px;
 .citation-image {
   position: relative;
   width: $thumb-size;
+  height: $thumb-size;
   flex-shrink: 0;
+  align-self: flex-start;
   // box-shadow: var(--shadow);
 }
 
@@ -29,7 +31,7 @@ $wrap: 800px;
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 .citation-text {
@@ -73,11 +75,28 @@ $wrap: 800px;
 
 .citation-description {
   color: var(--gray);
+  display: none;
+  padding-top: 10px;
+}
+
+// bottom meta row: actions (PDF / Abstract) and topic tags share one line,
+// kept as two visually distinct groups; wraps on narrow widths
+.citation-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 16px;
+  width: 100%;
+}
+
+.citation-meta > .tags {
+  margin: 0;
 }
 
 .citation-buttons {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 10px;
 }
 
@@ -85,10 +104,38 @@ $wrap: 800px;
   margin: 0;
 }
 
-.citation-text > .tags {
-  display: inline-flex;
-  justify-content: flex-start;
+// abstract disclosure: a compact toggle that stays inline on the buttons row in
+// both states; the full abstract is a full-width sibling below the row, shown
+// via :has() only while the toggle is open
+.citation-abstract-toggle {
   margin: 0;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background: none;
+  overflow: visible;
+}
+
+.citation-abstract-toggle > summary {
+  margin: 0;
+  padding: 5px;
+  border-radius: var(--rounded);
+  color: var(--primary);
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+  transition: color var(--transition);
+}
+
+.citation-abstract-toggle > summary:hover {
+  color: var(--text);
+}
+
+.citation-abstract-toggle[open] > summary {
+  background: none;
+}
+
+.citation-text:has(.citation-abstract-toggle[open]) .citation-description {
+  display: block;
 }
 
 @container (max-width: #{$wrap}) {

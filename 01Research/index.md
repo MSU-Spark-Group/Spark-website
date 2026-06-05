@@ -16,12 +16,17 @@ Supported by Princeton Collaborative Low Temperature Plasma Research Facility (P
 
 ### Thrust 2: Developing Advanced Laser Diagnostics for Manufacturing, SmartAg, Energy, and Environment
 
+<div class="research-hero">
+<div class="research-hero-text" markdown="1">
 In situ laser diagnostics in the mid-infrared region, which contains the fundamental vibrational signatures of most molecules, are essential for tracking the chemical dynamics of radicals, excited states, and molecular intermediates that drive efficient combustion, advanced manufacturing, heterogeneous catalysis, and agricultural/environmental chemistry. We aim to develop advanced laser diagnostic capabilities to probe elementary kinetics, optimize surface processes, advance value-added manufacturing from agricultural feedstocks, and detect atmospheric trace gases.
 
 Supported by Michigan State University Shared Research Infrastructure Program (SRIP).
-
-![Target species](Picture1.png)
-*Research question: how to track complex and transient chemical reactions with in situ laser diagnostics?*
+</div>
+<figure class="research-hero-figure">
+<img src="Picture1.png" alt="Target species: mid-infrared transmission spectra of aromatics, NH3, and CH4">
+<figcaption><em>Research question: how to track complex and transient chemical reactions with in situ laser diagnostics?</em></figcaption>
+</figure>
+</div>
 
 
 {% include section.html %}

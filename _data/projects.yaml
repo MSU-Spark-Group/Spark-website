@@ -1,19 +1,16 @@
-- title: Zero-Dimensional Plasma–Catalysis Model for Surface Coverage of Nitrogen and Oxygen Atoms 
-  subtitle: Wencheng Lin
+- id: "doi:10.1088/1361-6463/ae71e3"
+  type: paper
   group: featured
-  image: images/Posters/M1.png
-  link: https://github.com/Ezeki3lRchy/Catal.CFD
-  description: Develop an elementary surface-reaction model incorporating nitrogen and oxygen ground state and electronically excited states
-  repo: Ezeki3lRchy/Catal.CFD
+  title: "Non-equilibrium biodiesel hydrogenation: probing near-surface atomic hydrogen by fs-TALIF"
+  authors:
+    - Sankhadeep Basu
+    - Wencheng Lin
+    - Anatoli Morozov
+    - Arthur Dogariu
+    - Hongtao Zhong
+  publisher: "Journal of Physics D: Applied Physics"
+  date: 2026-06-03
+  link: https://doi.org/10.1088/1361-6463/ae71e3
+  image: images/Publications/biodiesel-fs-talif.jpg
   tags:
-    - posters
-
-- title: TALIF measurement of atomic hydrogen density for biofuel hydrogenation.
-  subtitle: Sankhadeep Basu
-  group: featured
-  image: images/Posters/TALIF-1.png
-  link: 
-  description: Spatially and temporally resolved atomic hydrogen densities are quantified using two-photon absorption laser-induced fluorescence (TALIF) at the plasma–biofuel interface. The measurements provide absolute H-atom number densities and fluxes directly relevant to plasma-assisted biofuel hydrogenation kinetics.
-  repo: 
-  tags:
-    - posters
+    - journal papers

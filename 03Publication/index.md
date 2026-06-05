@@ -11,16 +11,10 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="journal papers, presentations, posters" %}
+{% include tags.html tags="journal papers" %}
 
 {% include section.html %}
 
-## Featured
+## Publications
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="citation" data="projects" style="rich" %}

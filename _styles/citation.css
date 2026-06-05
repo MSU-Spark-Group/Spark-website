@@ -14,7 +14,9 @@
 .citation-image {
   position: relative;
   width: 180px;
+  height: 180px;
   flex-shrink: 0;
+  align-self: flex-start;
 }
 
 .citation-image img {
@@ -22,7 +24,7 @@
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 .citation-text {
@@ -66,11 +68,26 @@
 
 .citation-description {
   color: var(--gray);
+  display: none;
+  padding-top: 10px;
+}
+
+.citation-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 16px;
+  width: 100%;
+}
+
+.citation-meta > .tags {
+  margin: 0;
 }
 
 .citation-buttons {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 10px;
 }
 
@@ -78,10 +95,35 @@
   margin: 0;
 }
 
-.citation-text > .tags {
-  display: inline-flex;
-  justify-content: flex-start;
+.citation-abstract-toggle {
   margin: 0;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background: none;
+  overflow: visible;
+}
+
+.citation-abstract-toggle > summary {
+  margin: 0;
+  padding: 5px;
+  border-radius: var(--rounded);
+  color: var(--primary);
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+  transition: color var(--transition);
+}
+
+.citation-abstract-toggle > summary:hover {
+  color: var(--text);
+}
+
+.citation-abstract-toggle[open] > summary {
+  background: none;
+}
+
+.citation-text:has(.citation-abstract-toggle[open]) .citation-description {
+  display: block;
 }
 
 @container (max-width: 800px) {

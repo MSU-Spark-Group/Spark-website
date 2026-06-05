@@ -1,0 +1,31 @@
+# Archived project entries — NOT loaded by Jekyll.
+#
+# These are the "Featured projects" poster entries that the Publication page
+# (03Publication/index.md + _data/projects.yaml) used before the 2026-06-05
+# redesign to a citation-style journal-paper list. Kept here in case the
+# featured-poster layout is revived. The referenced images still live in
+# images/Posters/ (M1.png, TALIF-1.png).
+#
+# Originally from _data/projects.yaml at commit c4130ad. To restore, copy an
+# entry back into _data/projects.yaml (the card layout used component="card"
+# with a `group: featured` / "More" split).
+
+- title: Zero-Dimensional Plasma–Catalysis Model for Surface Coverage of Nitrogen and Oxygen Atoms
+  subtitle: Wencheng Lin
+  group: featured
+  image: images/Posters/M1.png
+  link: https://github.com/Ezeki3lRchy/Catal.CFD
+  description: Develop an elementary surface-reaction model incorporating nitrogen and oxygen ground state and electronically excited states
+  repo: Ezeki3lRchy/Catal.CFD
+  tags:
+    - posters
+
+- title: TALIF measurement of atomic hydrogen density for biofuel hydrogenation.
+  subtitle: Sankhadeep Basu
+  group: featured
+  image: images/Posters/TALIF-1.png
+  link:
+  description: Spatially and temporally resolved atomic hydrogen densities are quantified using two-photon absorption laser-induced fluorescence (TALIF) at the plasma–biofuel interface. The measurements provide absolute H-atom number densities and fluxes directly relevant to plasma-assisted biofuel hydrogenation kinetics.
+  repo:
+  tags:
+    - posters

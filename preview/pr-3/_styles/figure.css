@@ -1,0 +1,51 @@
+.figure {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  margin: 40px 0;
+}
+
+.figure-image {
+  display: contents;
+}
+
+.figure-image img {
+  border-radius: var(--rounded);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.figure-caption {
+  font-style: italic;
+  text-align: center;
+}
+
+.collaborator-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+  margin: 40px 0;
+}
+
+.collaborator-row .figure {
+  width: 175px;
+  min-width: 0;
+  margin: 0;
+}
+
+.collaborator-row .figure-image img {
+  width: 175px;
+  height: 175px;
+  object-fit: contain;
+  background: var(--background);
+}
+
+.collaborator-row .figure-caption {
+  width: 175px;
+}
+
+/*# sourceMappingURL=figure.css.map */

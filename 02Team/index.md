@@ -42,4 +42,10 @@ nav:
    link="https://www.msuirrigationlab.com/home"
    width="175px" %}
 
+{% include figure.html
+   image="images/members/ASUlogo.png"
+   caption="Xu Lab — Energy Materials"
+   link="https://faculty.engineering.asu.edu/xinxu/"
+   width="175px" %}
+
 </div>

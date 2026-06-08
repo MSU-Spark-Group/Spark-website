@@ -43,7 +43,7 @@ nav:
  CO2 laser cutting and engraving system
 
 
- ### Imaging
+### Imaging
 
  Intensified charge-coupled device (ICCD) camera
  

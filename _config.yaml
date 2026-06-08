@@ -38,6 +38,8 @@ collections:
   # generate page for each member
   members:
     output: true
+    # manual ordering within role groups via `order:` front matter (lower = first)
+    sort_by: order
   # generate page for each post
   posts:
     output: true

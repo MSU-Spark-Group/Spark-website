@@ -2,6 +2,7 @@
 name: Wencheng Lin
 image: images/members/wencheng-lin.jpg
 role: phd
+order: 3
 affiliation:
 aliases:
   - Zeke

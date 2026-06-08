@@ -2,6 +2,7 @@
 name: Hongtao Zhong
 image: images/members/hongtao-zhong2.jpg
 role: principal-investigator
+order: 1
 affiliation: 
 aliases:
   - hongtao

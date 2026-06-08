@@ -2,6 +2,7 @@
 name: Sankhadeep Basu
 image: images/members/sankha-deep1.jpg
 role: postdoc
+order: 2
 group: 
 links:
   github: 

@@ -3,6 +3,7 @@ name: Matthew Russell
 image: images/members/matthew-russell1.jpg
 description:
 role: grad
+order: 5
 links:
   email: 
   twitter: 

@@ -3,6 +3,7 @@ name: Kanishk Biswas
 image: images/members/kanishk-biswas.jpg
 description:
 role: undergrad
+order: 6
 links:
   email: biswaska@msu.edu
   twitter: 

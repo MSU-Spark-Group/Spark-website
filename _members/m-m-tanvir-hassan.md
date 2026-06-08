@@ -9,4 +9,4 @@ links:
   email: hassanm@msu.edu
 ---
 
-M M Tanvir Hassan is a Mechanical Engineering Ph.D. student joining the SPARK group in Fall 2026 and a graduate of Michigan State University. His background spans mechanical design, control systems, and structural analysis, with hands-on experience in optical diagnostics — particularly the implementation of laser optics and related systems.
+M M Tanvir Hassan is a Mechanical Engineering Ph.D. student (Fall 2026) and a graduate of Michigan State University. His academic and research background is in mechanical design, control systems, and structural analysis, with specific experience investigating optical diagnostics, specifically the implementation of laser optics and systems.

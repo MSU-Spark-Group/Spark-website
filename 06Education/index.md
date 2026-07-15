@@ -11,6 +11,6 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="undergrad, grad" %}
+{% include tags.html tags="undergrad, grad, general, K12" %}
 
 {% include list.html data="courses" component="post-excerpt" %}

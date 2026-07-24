@@ -47,7 +47,7 @@ nav:
 
  Intensified charge-coupled device (ICCD) camera
  
- Andor Shamrock 500i high-resolution spectrograph
+ High-resolution spectrograph (1800 l/mm, 2400 l/mm grating)
 
 
 {% include section.html %}
